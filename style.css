@@ -17,6 +17,11 @@ body{
 .logo{
   max-width: 600px;
   margin-bottom: 25px;
+  text-align: center;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  margin-bottom: 50px;
 }
 .container-input{
   max-width: 480px;
